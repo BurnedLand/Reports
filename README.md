@@ -1,4 +1,6 @@
 # BurnedLand-Report
+Welcome to our Bugreport section. 
+All Reports MUST use this form, or the report will be noted as invalid. While we trully appreciate the bug reports, it needs to be sorted out properly in a way it is also user-friendly for thr fixers
 
 Welcome to BurnedLand our Cataclysm Private Servers!
 
