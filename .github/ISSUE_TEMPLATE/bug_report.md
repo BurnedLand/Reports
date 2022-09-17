@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Faction, Race **
+** Faction, Race**
 Player faction, Horde Or Alliance. The name of your race. Ie Undead, Human, ect.
 
 **Name, Type**
