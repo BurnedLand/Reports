@@ -1,23 +1,23 @@
 # BurnedLand-Report
-Ciao ragazzi! 
-Vi invitiamo ad usare questa repository per comunicarci eventuali bug del server.
 
-I messaggi dovranno presentare uno schema semplice e di facile lettura tipo:
+Welcome to BurnedLand our Cataclysm Private Servers!
 
 
+Avg. Population -->  0-100 Style
 
-[Fazione] Fazione: Horde /Alliance, Classe
+Blizzlike Language  -->  English
 
-[Nome, Tipo] Nome ,Tipo: Item/quest/spell/Npc ecc
+Rates --> x1 - x5 Type
 
-[Descrizione Problema] . . . .
+PVP Shop --> Vanity Items, Gear
 
-[Come dovrebbe funzionare] . . . .
-
-[Wowhead Link e Screenshots] . . . .
-
+Realmlist --> set realmlist logon.burnedland.it
 
 
-Vi ringraziamo per la vostra collaborazione!
+Discord --> https://discord.com/invite/XBzqAsp
+
+
+Realm Description
+World of Warcraft private server, periodic fixes with over 90% of scripted features. Cataclysm 4.3.4 expansion with all raids and dungeons working. Rate 1x-5x for experience and gold.
 
 Burnedland Staff
