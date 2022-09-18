@@ -1,21 +1,17 @@
 # BurnedLand-Report
 Welcome to our Bugreport section. 
-All Reports must use this form, or the report will be noted as invalid. While we trully appreciate the bug reports, it needs to be sorted out properly in a way it is also user-friendly for thr fixers.
+All Reports must use this form, or the report will be noted as invalid. While we trully appreciate the bug reports, it needs to be sorted out properly in a way it is also user-friendly for the fixers.
 
-** Faction, Race **
-Player faction, Horde Or Alliance. The name of your race. Ie Undead, Human, ect.
+**[Name, Faction]** Player name and player faction, Horde Or Alliance. 
 
-** Name, Type **
-Name of the Item/Quest/Spell/Npc etc.
+**[Name, Type]** Name of the Item/Quest/Spell/Npc etc., Type (Item/Quest/Spell/Npc etc.)
 
-** Describe the bug **
-A clear and concise description of what the bug is.
+**[Describe the bug]** A clear and concise description of what the bug is.
 
-** Wowhead Link and Screenshots **
-If applicable, add screenshots and wowhead link to help explain your problem.
+**[Wowhead Link and Screenshots]** If applicable, add screenshots and wowhead link to help explain your problem.
 
-** Additional context **
-Add any other context about the problem here.
+**[Additional context]** Add any other context about the problem here.
+
 
 # BurnedLand Server Info
 
