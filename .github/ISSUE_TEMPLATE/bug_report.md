@@ -4,16 +4,14 @@ about: Create a report to help us improve your gaming experience. Use the form b
   to report the bug.
 title: ''
 labels: ''
-assignees: ''
+assignees: BurnedLand
 
 ---
 
-[Name, Faction] Player name and player faction, Horde Or Alliance. 
+[Player Name and Faction].......
 
-[Name, Type] Name of the Item/Quest/Spell/Npc etc., Type (Item/Quest/Spell/Npc etc.)
+[Type: Item/Quest/Spell/Npc and Name ].......
 
-[Describe the bug] A clear and concise description of what the bug is.
+[Describe the bug].......
 
-[Wowhead Link and Screenshots] If applicable, add screenshots and wowhead link to help explain your problem.
-
-[Additional context] Add any other context about the problem here.
+[Wowhead Link and Screenshots]It's mandatory to attach WoWhead link and if applicabile a Screenshot.
