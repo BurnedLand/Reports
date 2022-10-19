@@ -4,7 +4,9 @@ about: Create a report to help us improve your gaming experience. Use the form b
   to report the bug.
 title: ''
 labels: 'To Check'
+project: 'BurnedLand's Reports'
 assignees: Maze003
+
 
 ---
 
