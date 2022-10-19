@@ -3,8 +3,8 @@ name: Bug report
 about: Create a report to help us improve your gaming experience. Use the form below
   to report the bug.
 title: ''
-labels: ''
-assignees: BurnedLand
+labels: 'To Check'
+assignees: Maze003
 
 ---
 
