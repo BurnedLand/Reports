@@ -1,4 +1,3 @@
-# BurnedLand-Report
 ## English
 
 Welcome to our Bugreport section. 
