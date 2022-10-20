@@ -13,7 +13,7 @@ All Reports must use this form, or the report will be noted as invalid. While we
 **[Additional context]** Add any other context about the problem here.
 
 Benvenuti nella sezione dedicata ai bug reports. 
-Per segnalare qualsiasi tipo di problema riscontrato in game potete farlo su https://github.com/BurnedLand/Reports/issues/new?assignees=BurnedLand&labels=&template=bug_report.md&title=  seguendo il formato già preimpostato. Grazie! 
+Per segnalare qualsiasi tipo di problema riscontrato in game ci invitiamo a seguire il formato già preimpostato. Grazie! 
 
 **[Nome, Fazione]** Nome e fazione del personaggio, Horde Or Alliance.
 
