@@ -12,6 +12,18 @@ All Reports must use this form, or the report will be noted as invalid. While we
 
 **[Additional context]** Add any other context about the problem here.
 
+Benvenuti nella sezione dedicata ai bug reports. 
+Per segnalare qualsiasi tipo di problema riscontrato in game potete farlo su https://github.com/BurnedLand/Reports/issues/new?assignees=BurnedLand&labels=&template=bug_report.md&title=  seguendo il formato già preimpostato. Grazie! 
+
+**[Nome, Fazione]** Nome e fazione del personaggio, Horde Or Alliance.
+
+**[Nome, Tipo]** Nome del Item/Quest/Spell/Npc etc., Tipo (Item/Quest/Spell/Npc etc.)
+
+**[Descrizione Bug]** Descrizione chiara del bug.
+
+**[Wowhead Link e Screenshots]** Allegare link di wowhead e una screenshot del problema se possibile.
+
+**[Commenti]** Aggiungo qualsiasi altro commento inerente al problema quì.
 
 # BurnedLand Server Info
 
