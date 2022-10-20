@@ -1,4 +1,6 @@
 # BurnedLand-Report
+**ENGLISH**
+
 Welcome to our Bugreport section. 
 All Reports must use this form, or the report will be noted as invalid. While we trully appreciate the bug reports, it needs to be sorted out properly in a way it is also user-friendly for the fixers.
 
@@ -11,6 +13,11 @@ All Reports must use this form, or the report will be noted as invalid. While we
 **[Wowhead Link and Screenshots]** If applicable, add screenshots and wowhead link to help explain your problem.
 
 **[Additional context]** Add any other context about the problem here.
+
+
+
+
+**ITALIANO**
 
 Benvenuti nella sezione dedicata ai bug reports. 
 Per segnalare qualsiasi tipo di problema riscontrato in game ci invitiamo a seguire il formato già preimpostato. Grazie! 
