@@ -1,5 +1,5 @@
 # BurnedLand-Report
-**ENGLISH**
+## English
 
 Welcome to our Bugreport section. 
 All Reports must use this form, or the report will be noted as invalid. While we trully appreciate the bug reports, it needs to be sorted out properly in a way it is also user-friendly for the fixers.
@@ -17,7 +17,7 @@ All Reports must use this form, or the report will be noted as invalid. While we
 
 
 
-**ITALIANO**
+## Italiano
 
 Benvenuti nella sezione dedicata ai bug reports. 
 Per segnalare qualsiasi tipo di problema riscontrato in game ci invitiamo a seguire il formato già preimpostato. Grazie! 
@@ -39,6 +39,8 @@ Welcome to BurnedLand our Cataclysm Private Servers!
 World of Warcraft private server, periodic fixes with over 90% of scripted features. Cataclysm 4.3.4 expansion with all raids and dungeons working. Rate 1x-5x for experience and gold.
 
 Discord --> https://discord.com/invite/XBzqAsp
+
+Website --> https://www.burnedland.it/
 
 Avg. Population -->  0-100 Style
 
