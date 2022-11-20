@@ -15,3 +15,5 @@ assignees: Maze003
 "Describe the bug"=
 
 "Wowhead link"=
+
+"Screenshots"=
