@@ -1,18 +1,18 @@
 ## English
 
 Welcome to our Bugreport section. 
-All Reports must use this form, or the report will be noted as invalid. While we trully appreciate the bug reports, it needs to be sorted out properly in a way it is also user-friendly for the fixers.
+All Reports must use this form, or the report will be noted as invalid. While we trully appreciate the bug reports, it needs to be sorted out properly in a way it is also user-friendly for the fixers. 
+Example:
 
-**[Name, Faction]** Player name and player faction, Horde Or Alliance. 
+**"Player Name and Faction"=** Maze, Horde 
 
-**[Name, Type]** Name of the Item/Quest/Spell/Npc etc., Type (Item/Quest/Spell/Npc etc.)
+**"Type and Name"=** Quest, The Battle for Andorhal
 
-**[Describe the bug]** A clear and concise description of what the bug is.
+**"Describe the bug"=** The npc "Guthrum Thunderfist" does not offer the fly to Andorhal
 
-**[Wowhead Link and Screenshots]** If applicable, add screenshots and wowhead link to help explain your problem.
+**"Wowhead link"=** https://www.wowhead.com/quest=28505/the-battle-for-andorhal
 
-**[Additional context]** Add any other context about the problem here.
-
+**"Screenshots"** If applicable, add screenshots and wowhead link to help explain your problem.
 
 
 
